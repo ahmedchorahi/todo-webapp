@@ -20,4 +20,4 @@ A sleek, responsive, and dynamic ToDo web application built with HTML, CSS, and 
 3. Start managing your tasks!
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for detail.
